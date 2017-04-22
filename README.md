@@ -1,4 +1,7 @@
-# test coverage for  [anyfs (v0.1.6)](https://github.com/anyfs/anyfs)  [![npm package](https://img.shields.io/npm/v/npmtest-anyfs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-anyfs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-anyfs.svg)](https://travis-ci.org/npmtest/node-npmtest-anyfs)
+# npmtest-anyfs
+
+#### basic test coverage for  [anyfs (v0.1.6)](https://github.com/anyfs/anyfs)  [![npm package](https://img.shields.io/npm/v/npmtest-anyfs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-anyfs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-anyfs.svg)](https://travis-ci.org/npmtest/node-npmtest-anyfs)
+
 #### Super portable filesystem.
 
 [![NPM](https://nodei.co/npm/anyfs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/anyfs)
@@ -78,7 +81,8 @@
     "scripts": {
         "test": "./node_modules/mocha/bin/mocha"
     },
-    "version": "0.1.6"
+    "version": "0.1.6",
+    "bin": {}
 }
 ```
 
